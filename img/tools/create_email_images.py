@@ -7,7 +7,7 @@ email_dict = {
     'Zhuoyuan Li' : 'zhuoyli@connect.hku.hk',
     'Zhizi Guan' : 'zhiziguan@connect.hku.hk',
     'Xiaoguo Gong' : 'gongxg@connect.hku.hk',
-    'Anwen Liu' : 'anwenliu2-c@my.CityU.edu.hk',
+    'Anwen Liu' : 'anwenliu2-c@my.cityu.edu.hk',
     'Jinxin Yu' : 'jinxinyu2-c@my.cityu.edu',
     'Jing Fang' : 'jingfang9-c@my.cityu.edu.hk',
     'Zhaowei Wang': 'zhaowwang2-c@my.cityu.edu.hk',
