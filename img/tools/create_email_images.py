@@ -4,7 +4,7 @@ email_dict = {
     'David Srolovitz' : 'srol@hku.hk',
     'Subrahmanyam Pattamatta' : 'psmanyam@hku.hk',
     'Tongqi Wen' : 'tongqwen@hku.hk',
-    'Zhuoyuan Li' : 'zhuoyuan_li@outlook.com',
+    'Zhuoyuan Li' : 'zhuoyli@connect.hku.hk',
     'Zhizi Guan' : 'zhiziguan@connect.hku.hk',
     'Xiaoguo Gong' : 'gongxg@connect.hku.hk',
     'Anwen Liu' : 'anwenliu2-c@my.CityU.edu.hk',
