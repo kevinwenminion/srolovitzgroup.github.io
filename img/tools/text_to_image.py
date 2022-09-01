@@ -2,7 +2,7 @@ from PIL import Image
 from PIL import ImageDraw
 from PIL import ImageFont
 
-def draw_image(text, text_width=200, text_height=50, font_type="arial.ttf", font_size=20):
+def draw_image(text, text_width=200, text_height=50, font_type="arial.ttf", font_size=18):
 
     img = Image.new('RGB', (text_width, text_height), color = (255,255,255))
     font = ImageFont.truetype(font_type, font_size)
