@@ -2,6 +2,7 @@ from text_to_image import text_to_image_fitting
 
 email_dict = {
     'David Srolovitz' : 'srol@hku.hk',
+    'Jian Han' : 'jianhan@cityu.edu.hk',
     'Subrahmanyam Pattamatta' : 'psmanyam@hku.hk',
     'Tongqi Wen' : 'tongqwen@hku.hk',
     'Zhuoyuan Li' : 'zhuoyli@connect.hku.hk',
@@ -14,6 +15,8 @@ email_dict = {
     'Dongsong Tao': 'dongsotao2-c@my.cityu.edu.hk',
     'Caihao Qiu' : 'caihaoqiu2-c@my.cityu.edu.hk',
     'Siqi Wang' : 'swang347-c@my.cityu.edu.hk',
+    'Simeon Ristic' : 'sristic@seas.upenn.edu',
+    'Larissa Woryk' : '	lworyk@seas.upenn.edu',
     'Avatar X' : 'avatarX@abc.edu'
 }
 
