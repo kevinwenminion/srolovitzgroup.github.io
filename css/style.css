@@ -1775,4 +1775,54 @@ bottom:0;
 .circular_image img{
   width:100%;
 }
+
+
+
+
+/*  Group member images hoover effect
+==================================== */
+.circular_image_hoover_effect{
+  width: 200px; /* can be omitted for a regular non-lazy image */
+  height: 200px;
+  border-radius: 50%;
+  overflow: hidden;
+  background-color: blue;
+  display:inline-block;
+  vertical-align:middle;
+  position: relative;
+}
+
+.circular_image_hoover_effect img{
+  width:100%;
+}
+
+.circular_image_hoover_effect img.image-hover {
+  position: absolute;
+  width: 200px; /* can be omitted for a regular non-lazy image */
+  height: 200px;
+  border-radius: 50%;
+  overflow: hidden;
+  background-color: blue;
+  display:inline-block;
+  vertical-align:middle;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  object-fit: contain;
+  opacity: 0;
+  transition: opacity .0s;
+}
+
+.circular_image_hoover_effect:hover img.image-hover {
+  width: 200px; /* can be omitted for a regular non-lazy image */
+  height: 200px;
+  border-radius: 50%;
+  overflow: hidden;
+  background-color: blue;
+  display:inline-block;
+  vertical-align:middle;
+  opacity: 1;
+}
+
  
