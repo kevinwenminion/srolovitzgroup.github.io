@@ -324,7 +324,7 @@ background:#fff;
 background:#fff;
 }
 .flexslider .slides img {
-    height: 300px; width: auto;
+    max-height: 300px; width: auto;
     display: block;
     text-align: center;
     margin: 0 auto;
