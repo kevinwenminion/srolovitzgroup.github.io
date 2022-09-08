@@ -15,6 +15,7 @@ email_dict = {
     'Dongsong Tao': 'dongsotao2-c@my.cityu.edu.hk',
     'Caihao Qiu' : 'caihaoqiu2-c@my.cityu.edu.hk',
     'Siqi Wang' : 'swang347-c@my.cityu.edu.hk',
+    'Zichen Song' : 'alansong641@163.com',
     'Simeon Ristic' : 'sristic@seas.upenn.edu',
     'Larissa Woryk' : 'lworyk@seas.upenn.edu',
     'Avatar X' : 'avatarX@abc.edu'
