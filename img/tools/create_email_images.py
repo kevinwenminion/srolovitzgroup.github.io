@@ -8,6 +8,7 @@ email_dict = {
     'Zhuoyuan Li' : 'zhuoyli@connect.hku.hk',
     'Zhizi Guan' : 'zhiziguan@connect.hku.hk',
     'Xiaoguo Gong' : 'gongxg@connect.hku.hk',
+    'Beilin Ye' : 'beilinye@connect.hku.hk',
     'Anwen Liu' : 'anwenliu2-c@my.cityu.edu.hk',
     'Jinxin Yu' : 'jinxinyu2-c@my.cityu.edu',
     'Jing Fang' : 'jingfang9-c@my.cityu.edu.hk',
@@ -18,6 +19,7 @@ email_dict = {
     'Zichen Song' : 'alansong641@163.com',
     'Simeon Ristic' : 'sristic@seas.upenn.edu',
     'Larissa Woryk' : 'lworyk@seas.upenn.edu',
+    'Han Liu' : 'hliu238-c@my.cityu.edu.hk',
     'Avatar X' : 'avatarX@abc.edu'
 }
 
